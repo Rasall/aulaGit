@@ -1,0 +1,23 @@
+[33mcommit 18f1d66099e4d3e711dbc0076947650b785497a7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Rafael Alberto <rafael_arc@live.com>
+Date:   Thu Jun 23 19:54:02 2022 -0300
+
+    Update blog
+
+[33mcommit b5e5c9fab919837561da651439fc3986357e2f98[m
+Author: Rafael Alberto <rafael_arc@live.com>
+Date:   Thu Jun 23 19:50:25 2022 -0300
+
+    Criada a pagina Blog
+
+[33mcommit e1e9d08954a0e5b452b91d73e05442bfeee44bec[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rafael Alberto <rafael_arc@live.com>
+Date:   Thu Jun 23 19:35:04 2022 -0300
+
+    Acrescetando o valor das vendas
+
+[33mcommit 845c83ce221155945b376464caead253a43a89e9[m
+Author: Rafael Alberto <rafael_arc@live.com>
+Date:   Thu Jun 23 19:28:32 2022 -0300
+
+    Criadas paginas index e vendas
